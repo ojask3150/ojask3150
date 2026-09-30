@@ -23,7 +23,6 @@
 ║  NAME       : Ojas Kasana                            ║
 ║  RACE       : Saiyan (B.Tech CSE, 2024 – 2028)       ║
 ║  DOJO       : IIIT Jabalpur, Madhya Pradesh          ║
-║  CPI        : 7.8                                    ║
 ║  SPECIALTY  : Deep Learning • Remote Sensing • RAG   ║
 ║  LANGUAGES  : English (Fluent) • German (B1)         ║
 ║  TRAINING   : Hyperbolic Time Chamber (a.k.a. Colab) ║
@@ -143,25 +142,6 @@ Every bug is a Frieza. Every epoch is a training session. **I never stop levelin
 
 `Python` `Scikit-learn` `XGBoost` `Rasterio` `QGIS` `GDAL` `Pandas` `NumPy`
 
----
-
-## 🟠 The 7 Dragon Balls (Achievements & Certs)
-
-<div align="center">
-
-| Ball | Achievement |
-|:----:|-------------|
-| ⭐ | **600+ problems** solved on Codeforces, CodeChef & LeetCode |
-| ⭐⭐ | **CodeChef 1510** (2★) |
-| ⭐⭐⭐ | **Codeforces Pupil** (1214 rating) |
-| ⭐⭐⭐⭐ | **JugendKamp 2022**: represented India at Goethe-Institut's cultural exchange, Dharamshala |
-| ⭐⭐⭐⭐⭐ | **Goethe Zertifikat A2** (German), 2023 |
-| ⭐⭐⭐⭐⭐⭐ | **Google Machine Learning Crash Course**, 2025 |
-| ⭐⭐⭐⭐⭐⭐⭐ | **CS50 Introduction to Programming in Python** (CS50/edX), 2025 |
-
-### 🐲 All seven collected. Shenron has been summoned. 🐲
-
-</div>
 
 ---
 
