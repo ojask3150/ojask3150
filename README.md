@@ -66,7 +66,6 @@ Every bug is a Frieza. Every epoch is a training session. **I never stop levelin
 ![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
 ![Rasterio](https://img.shields.io/badge/Rasterio-2E8B57?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
