@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=OJAS%20KASANA&fontSize=64&fontColor=FFD700&fontAlignY=38&desc=%E2%9A%A1%20Saiyan%20of%20Machine%20Learning%20%7C%20Satellite%20Vision%20%7C%20Agentic%20AI%20%E2%9A%A1&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=OJAS%20KASANA&fontSize=64&fontColor=FFD700&fontAlignY=38" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=%22My+power+level+is+over+9000...+epochs!%22;Training+models+like+training+in+the+Hyperbolic+Time+Chamber;Turning+Sentinel-2+pixels+into+crop+maps;Building+agents+that+use+their+Ki+wisely" alt="Typing SVG" />
