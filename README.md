@@ -30,7 +30,10 @@
 ```
 
 I train ML models on satellite imagery, build agentic AI systems, and grind competitive programming in my spare time.
-Every bug is a Frieza. Every epoch is a training session. **I never stop leveling up.** 🔥
+
+Leetcode : https://leetcode.com/u/masteroshi006/
+
+CodeForces: https://codeforces.com/profile/masteroshi006
 
 ---
 
